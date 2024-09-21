@@ -29,7 +29,7 @@ public class Base {
         return webDriver.get();
     }
     public static void closeDriver(){
-        webDriver.get().close();
+//        webDriver.get().close();
         webDriver.get().quit();
     }
 
