@@ -1,2 +1,5 @@
 # ignore intelij folders
 .idea/
+
+# ignore target folders
+target/
